@@ -5,7 +5,8 @@ public class PokeSwap
 	public static void main(String[] args)
 	{
 		Scanner keyboard = new Scanner(System.in);
-
+		
+		// These are the pokemon available to use
 		String[] pokeParty = { "PIKACHU", "CHARMELEON", "GEODUDE", "GYARADOS", "BUTTERFREE", "MANKEY" };
 		String enemy = "STARMIE";
 
